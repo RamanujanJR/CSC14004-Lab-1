@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+missingno
+scikit-learn
+statsmodels
+imbalanced-learn
+umap-learn
+
+# --- Sẽ bổ sung thêm ---

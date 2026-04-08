@@ -1,0 +1,37 @@
+# ==========================================
+# DỮ LIỆU (DATA) - Rất quan trọng
+# Bỏ qua toàn bộ dữ liệu để tránh vượt quá dung lượng Git
+# ==========================================
+# data/raw/
+# data/processed/
+# *.csv
+# *.zip
+# *.tar.gz
+# *.parquet
+
+# ==========================================
+# PYTHON & MÔI TRƯỜNG ẢO
+# ==========================================
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env
+
+# ==========================================
+# JUPYTER NOTEBOOK
+# ==========================================
+.ipynb_checkpoints/
+
+# ==========================================
+# HỆ ĐIỀU HÀNH & CÔNG CỤ TÙY CHỈNH
+# ==========================================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -22,7 +22,7 @@
 Nhóm lựa chọn thực hiện Tiền xử lý cho 3 loại dữ liệu: Ảnh, Bảng và Văn bản.
 
 ### Phần 1 - Dữ liệu Ảnh
-- **Tên tập dữ liệu:** [New Plant Diseases Dataset]
+- **Tên tập dữ liệu:** New Plant Diseases Dataset
 - **Nguồn/Link:** [Kaggle - New Plant Diseases](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
 - **Mô tả ngắn:** [Bộ dữ liệu ảnh RGB chụp lá cây dưới điều kiện có kiểm soát, được xây dựng để
 phục vụ bài toán nhận dạng và phân loại bệnh cây trồng]

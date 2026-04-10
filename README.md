@@ -22,9 +22,10 @@
 Nhóm lựa chọn thực hiện Tiền xử lý cho 3 loại dữ liệu: Ảnh, Bảng và Văn bản.
 
 ### Phần 1 - Dữ liệu Ảnh
-- **Tên tập dữ liệu:** [Tên dataset, VD: Chest X-Ray Images]
-- **Nguồn/Link:** [Link tải dataset]
-- **Mô tả ngắn:** [Số lượng ảnh, số lớp phân loại...]
+- **Tên tập dữ liệu:** [New Plant Diseases Dataset]
+- **Nguồn/Link:** [Kaggle - New Plant Diseases](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
+- **Mô tả ngắn:** [Bộ dữ liệu ảnh RGB chụp lá cây dưới điều kiện có kiểm soát, được xây dựng để
+phục vụ bài toán nhận dạng và phân loại bệnh cây trồng]
 
 ### Phần 2 - Dữ liệu Bảng
 - **Tên tập dữ liệu:** Adult Census Income
@@ -37,7 +38,7 @@ Nhóm lựa chọn thực hiện Tiền xử lý cho 3 loại dữ liệu: Ảnh
 - **Mô tả ngắn:** [Số lượng dòng, mục tiêu phân loại...]
 
 > **🔗 Link tải Data & Tài nguyên ngoài (Google Drive):** [Chèn link Drive chứa thư mục `data/` nếu file nén vượt quá 25MB]
-
+**Link tải dataset New Plant Diseases (Dữ liệu ảnh)** [Google drive](https://drive.google.com/drive/folders/1bn02lomttKFASPSl-Bxry9fB4ktfjjlT?usp=sharing)
 ---
 
 ## 3. Hướng dẫn cài đặt và chạy Notebook

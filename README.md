@@ -22,11 +22,9 @@
 Nhóm lựa chọn thực hiện Tiền xử lý cho 3 loại dữ liệu: Ảnh, Bảng và Văn bản.
 
 ### Phần 1 - Dữ liệu Ảnh
-- **Tên tập dữ liệu:** New Plant Diseases Dataset
-- **Nguồn:** [Kaggle - New Plant Diseases](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
-- **Link:** [Google drive](https://drive.google.com/drive/folders/1bn02lomttKFASPSl-Bxry9fB4ktfjjlT?usp=sharing)
-- **Mô tả ngắn:** Bộ dữ liệu ảnh RGB chụp lá cây dưới điều kiện có kiểm soát, được xây dựng để
-phục vụ bài toán nhận dạng và phân loại bệnh cây trồng.
+- **Tên tập dữ liệu:** Chest X-Ray Images (Pneumonia)
+- **Nguồn/Link:** [Kaggle - Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+- **Mô tả ngắn:** Tập dữ liệu gồm 5.863 ảnh X-quang ngực, được sử dụng để phân loại 2 lớp: Pneumonia (Viêm phổi) và Normal (Bình thường). Dữ liệu được chia sẵn thành các tập train, test và val.
 
 ### Phần 2 - Dữ liệu Bảng
 - **Tên tập dữ liệu:** Adult Census Income
@@ -34,11 +32,12 @@ phục vụ bài toán nhận dạng và phân loại bệnh cây trồng.
 - **Mô tả ngắn:** Dự đoán thu nhập (<=50K hoặc >50K) dựa trên các thông tin nhân khẩu học. Dữ liệu gồm khoảng 32.561 dòng và 15 thuộc tính.
 
 ### Phần 3 - Dữ liệu Văn bản
-- **Tên tập dữ liệu:** [Tên dataset, VD: IMDB Dataset of 50K Movie Reviews]
-- **Nguồn/Link:** [Link tải dataset]
-- **Mô tả ngắn:** [Số lượng dòng, mục tiêu phân loại...]
+- **Tên tập dữ liệu:** IMDB Dataset of 50K Movie Reviews
+- **Nguồn/Link:** [Kaggle - IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
+- **Mô tả ngắn:** Tập dữ liệu gồm 50.000 đánh giá phim (movie reviews) dùng cho bài toán phân loại cảm xúc nhị phân (positive/negative). Dữ liệu được chia sẵn thành tập train và test, mỗi tập khoảng 25.000 reviews.
 
-> **🔗 Link tải Data & Tài nguyên ngoài (Google Drive):** [Chèn link Drive chứa thư mục `data/` nếu file nén vượt quá 25MB]
+> **🔗 Link tải Data & Tài nguyên ngoài (Google Drive):** [Thư mục data/](https://drive.google.com/drive/folders/1-G6CYi7OlpWdSerIffbqX4FHNaAgDatt?usp=drive_link)
+
 ---
 
 ## 3. Hướng dẫn cài đặt và chạy Notebook

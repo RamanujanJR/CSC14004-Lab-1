@@ -9,4 +9,20 @@ statsmodels
 imbalanced-learn
 umap-learn
 
-# --- Sẽ bổ sung thêm ---
+# --- Image processing ---
+opencv-python
+Pillow
+imagehash
+scikit-image
+
+# --- Utilities ---
+tqdm
+
+# --- NLP ---
+nltk
+wordcloud
+spacy
+gensim
+tokenizers
+sentence-transformers
+beautifulsoup4

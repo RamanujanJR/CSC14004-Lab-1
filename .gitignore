@@ -2,12 +2,12 @@
 # DỮ LIỆU (DATA) - Rất quan trọng
 # Bỏ qua toàn bộ dữ liệu để tránh vượt quá dung lượng Git
 # ==========================================
-# data/raw/
-# data/processed/
-# *.csv
-# *.zip
-# *.tar.gz
-# *.parquet
+data/raw/
+data/processed/
+*.csv
+*.zip
+*.tar.gz
+*.parquet
 
 # ==========================================
 # PYTHON & MÔI TRƯỜNG ẢO

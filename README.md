@@ -22,9 +22,9 @@
 Nhóm lựa chọn thực hiện Tiền xử lý cho 3 loại dữ liệu: Ảnh, Bảng và Văn bản.
 
 ### Phần 1 - Dữ liệu Ảnh
-- **Tên tập dữ liệu:** Chest X-Ray Images (Pneumonia)
-- **Nguồn/Link:** [Kaggle - Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
-- **Mô tả ngắn:** Tập dữ liệu gồm 5.863 ảnh X-quang ngực, được sử dụng để phân loại 2 lớp: Pneumonia (Viêm phổi) và Normal (Bình thường). Dữ liệu được chia sẵn thành các tập train, test và val.
+- **Tên tập dữ liệu:** New Plant Diseases Dataset (lấy 10 lớp của lá Cà chua)
+- **Nguồn/Link:** [Kaggle - New Plant Diseases Dataset](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
+- **Mô tả ngắn:** Tập dữ liệu 22.946 ảnh lá cây Cà chua, gồm 10 lớp để phân loại bệnh của cây. Dữ liệu được chia sẵn thành các tập train, test.
 
 ### Phần 2 - Dữ liệu Bảng
 - **Tên tập dữ liệu:** Adult Census Income
@@ -36,7 +36,7 @@ Nhóm lựa chọn thực hiện Tiền xử lý cho 3 loại dữ liệu: Ảnh
 - **Nguồn/Link:** [Kaggle - IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 - **Mô tả ngắn:** Tập dữ liệu gồm 50.000 đánh giá phim (movie reviews) dùng cho bài toán phân loại cảm xúc nhị phân (positive/negative). Dữ liệu được chia sẵn thành tập train và test, mỗi tập khoảng 25.000 reviews.
 
-> **🔗 Link tải Data & Tài nguyên ngoài (Google Drive):** [Thư mục data/](https://drive.google.com/drive/folders/1-G6CYi7OlpWdSerIffbqX4FHNaAgDatt?usp=drive_link)
+### **🔗 Link data gồm raw và processed (Google Drive):** [Thư mục data/](https://drive.google.com/drive/folders/1-G6CYi7OlpWdSerIffbqX4FHNaAgDatt?usp=drive_link)
 
 ---
 
@@ -54,19 +54,17 @@ pip install -r requirements.txt
 
 ```
 Group_ID/
-├── README.md               # Tổng quan đồ án và hướng dẫn
-├── requirements.txt        # Danh sách thư viện cần thiết
-├── data/
-│   ├── raw/                # Dữ liệu gốc
-│   └── processed/          # Dữ liệu sau khi tiền xử lý
+├── README.md               
+├── requirements.txt              
 ├── notebooks/
 │   ├── 01_EDA_image.ipynb
 │   ├── 02_preprocessing_image.ipynb
 │   ├── 03_EDA_tabular.ipynb
 │   ├── 04_preprocessing_tabular.ipynb
-│   └── 05_text_preprocessing.ipynb
+│   ├── 05_EDA_text.ipynb
+│   └── 06_preprocessing_text.ipynb
 └── docs/
-    └── Report.pdf          # Báo cáo chi tiết của nhóm
+    └── Report.pdf          
 ```
 
 ### 3.3. Chạy Notebook
